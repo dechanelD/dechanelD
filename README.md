@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dechanelD
-- 👀 I’m interested in  le devellopement d'application web
-- 🌱 I’m currently learning le framework Angularjs
-- 💞️ I’m looking to collaborate on  un projet angular
+- 👀 I’m interested in web an mobile application
+- 🌱 I’m currently use framework Angularjs
+- 💞️ I’m looking to collaborate on angular projet 
 - 📫 How to reach me dechaneldipeua@gmail.com
 
 <!---
